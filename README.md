@@ -3,10 +3,9 @@ bhavyahuja@github
 ```
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=74c365&center=true&vCenter=true&width=500&lines=Building+Systems...;Training+Models...;Chugging+Coffee...C%2B%2B..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=74c365&center=true&vCenter=true&width=500&lines=Building+Systems...;Training+Models...;Chugging+Coffee..." alt="Typing SVG" />
   </a>
 </div>
---------------------------
 
 ```bash
 OS: Fedora Linux
