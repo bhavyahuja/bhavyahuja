@@ -3,14 +3,17 @@ bhavyahuja@github
 ```
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=74c365&center=true&vCenter=true&width=500&lines=Building+Systems...;Training+Models...;Chugging+Coffee..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=400&color=74C365&center=true&vCenter=true&width=650&lines=Building+Systems...;Training+Models...;Distro Hopping...;Chugging+Coffee...;Breaking+Things...;Fixing+Them..." alt="Typing SVG" />
   </a>
 </div>
 
-```bash
-OS: Fedora Linux
-Focus: Systems, ML
-Location: iiit hyd, IN
-hobbies: music, films
+```console
+bhavya@arch:~$ neofetch
+os          :: arch linux (btw)
+desktop     :: kde plasma
+location    :: iiit hyd, IN
+interests   :: systems, ml, research
+hobbies     :: music, films
 ```
-![Profile Views](https://komarev.com/ghpvc/?username=bhavyahuja&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhavyahuja&style=for-the-badge&color=74C365)
