@@ -19,4 +19,4 @@ interests   :: systems, ml, research
 hobbies     :: music, films
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhavyahuja&style=for-the-badge&color=74C365)
+![Profile Views](https://komarev.com/ghpvc/?username=bhavyahuja&style=for-the-badge&color=1793d1)
